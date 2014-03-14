@@ -2,22 +2,25 @@
 
 img {
     border: 5px solid black;
-    margin: 0 10%;
-    width: 50%;
+    margin: 0 15% 0 15%;
+    width: 70%;
 }
 
-h1 {
+h1 {font-family: lucida, candara, arial;
     color: #ff6c00;
 }
 
-h2 {
+h2 {font-family: calibri, cambria, candara;
     color: #ffc200;
 }
 
 body{ background-color:#009e8e}
 
-009e8e
-
+p {
+    font-family: arial, calibri, avenir;
+    font-size: 16px;
+    line-height: 24px
+}
 
 
 
